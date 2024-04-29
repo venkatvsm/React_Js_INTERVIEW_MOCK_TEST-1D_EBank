@@ -1,0 +1,20 @@
+.HomeContainer {
+  height: 100vh;
+  background-color: #152850;
+}
+.HomeCardContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5%;
+}
+.homeHeading {
+  color: #ffff;
+  font-family: 'Roboto';
+  font-size: 44px;
+  font-weight: 500;
+}
+.homeImage {
+  width: 580px;
+}

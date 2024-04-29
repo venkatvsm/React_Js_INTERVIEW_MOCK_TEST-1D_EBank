@@ -1,0 +1,22 @@
+.HeaderContainer {
+  height: 15vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: transparent;
+  padding-left: 8%;
+  padding-right: 8%;
+}
+.HomeImage {
+  width: 150px;
+}
+.Logoutbtn {
+  border-color: #ffff;
+  color: #ffff;
+  border-style: solid;
+  background-color: transparent;
+  width: 140px;
+  height: 48px;
+  font-size: 21px;
+  cursor: pointer;
+}
